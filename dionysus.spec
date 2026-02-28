@@ -2,7 +2,7 @@ Summary:	GNU Dionysus - scientific constants and engineers parameters
 Summary(pl.UTF-8):	GNU Dionysus - pakiet stałych naukowych i parametrów inżynierskich
 Name:		dionysus
 Version:	1.4.0
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/Science
 Source0:	http://ftp.gnu.org/gnu/dionysus/%{name}-%{version}.tar.xz
